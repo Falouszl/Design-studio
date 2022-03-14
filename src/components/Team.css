@@ -1,0 +1,36 @@
+#team {
+    margin-left:25%;
+    display:flex;
+  }
+  #team img {
+    border-radius: 10px;
+    width:50%;
+    height:50%;
+  }
+  .member2  {
+    margin-left: -22%;
+  }
+  .member3 {
+    margin-left: -22%;
+  }
+  .description {
+    border:1px rgb(238, 233, 233);
+    margin-top:-1.5%;
+    width:50%;
+    height:50%;
+    border-radius:10px;
+    background-color: #f1f1f1; 
+  
+  }
+  .description h2 {
+    padding:20px 12px;
+    font-weight:100;
+  }
+  .description .position {
+   color:grey;
+   margin:-22px 12px;
+   font-weight:100;
+  }
+  .description .simple {
+    padding: 20px 12px;
+  }

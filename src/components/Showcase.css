@@ -1,0 +1,39 @@
+.main h1 {
+    color:black;
+    margin-left:25%;
+    font-size:44px;
+    margin-top:5%;
+  }
+  .main h2 {
+    color:rgb(101, 7, 138);
+    margin-left:25%;
+    font-size:38px;
+    margin-top:4%;
+  }
+  .main hr {
+    color:rgb(101, 7, 138);
+    width:60%;
+    margin-left:25%;
+    height:10px;
+    border:none;
+    background-color:rgb(101, 7, 138);
+    border-radius: 25px;
+  }
+  .con img {
+    border-radius: 25px;
+    width:25%;
+    height:25%;
+    margin-left:25%;
+  }
+  .cun img {
+    border-radius: 25px;
+    width:25%;
+    height:25%;
+    margin-left:51%; 
+    margin-top:-23%;
+    margin-bottom:1.2%;
+  }
+  .main p {
+    margin-left:25%;
+    width:60%;
+  }

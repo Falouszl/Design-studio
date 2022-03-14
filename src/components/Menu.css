@@ -1,0 +1,24 @@
+.menu {
+    background-color: blueviolet;
+    width: 10%;
+    height:100%;
+    font-weight:bold;
+    border-radius: 15px;
+    padding:10px 20px;
+    position:fixed;
+    top:0;
+    left:0;
+    line-height:1.6em;
+    color:white;
+  }
+  .menu a {
+    color:white;
+    text-decoration:none;
+    display:block;
+    width:100%;
+    padding:8px 16px;
+    color:inherit;
+  }
+  .menu h3 {
+    color:white;
+  }
